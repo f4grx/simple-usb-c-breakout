@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name local)(type Legacy)(uri ${KIPRJMOD}/local.lib)(options "")(descr ""))
+  (lib (name conn)(type Legacy)(uri /home/grx/ownCloud/projects/f4libs/f4grx_conn.lib)(options "")(descr ""))
+  (lib (name pass)(type Legacy)(uri /home/grx/ownCloud/projects/f4libs/f4grx_passive.lib)(options "")(descr ""))
+)
